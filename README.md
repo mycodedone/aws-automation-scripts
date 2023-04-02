@@ -1,2 +1,5 @@
 # aws-automation-scripts
-This repository contains Python scripts for interacting with AWS using the Boto3 and AWS CLI libraries. These scripts can be used for tasks such as creating AMIs, deleting old snapshots, describing EC2 instances, taking EBS snapshots and emailing notifications, launching EC2 instances, and starting/stopping/terminating EC2 instances.
+Usage:
+
+To use these scripts, you will need to have the Boto3 library and the AWS CLI installed on your local machine. You will also need to have valid AWS credentials configured.
+To run a script, simply execute the Python file from your terminal or IDE.
